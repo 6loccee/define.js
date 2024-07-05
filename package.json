@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "script to query Google for definitions of words/phrases from the command line.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node scripts/build.js"
   },
   "keywords": [],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "0.23.0"
+  }
 }
