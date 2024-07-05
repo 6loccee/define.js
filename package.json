@@ -1,0 +1,11 @@
+{
+  "name": "define.js",
+  "version": "1.0.0",
+  "description": "script to query Google for definitions of words/phrases from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
